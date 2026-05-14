@@ -123,9 +123,9 @@ Some areas I enjoy working on:
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleems&show_icons=true&hide_border=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedsaleems&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleems&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsaleems&layout=compact&hide_border=true)
 
 ---
 
