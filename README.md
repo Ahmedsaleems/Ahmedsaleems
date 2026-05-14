@@ -9,7 +9,7 @@ I build clean, reliable backend systems, APIs, and performance-focused service f
 
 I’m a backend-focused software developer based in Islamabad, currently working as a **Junior Backend Developer at Quecko**.
 
-My journey started with **Python/Django backend development**, where I built web applications, REST APIs, and database-driven systems. Over time, my stack has expanded into **Golang, Node.js, Express.js, TypeScript, and Next.js**.
+My journey started with **Python/Django backend development**, where I built web applications, REST APIs, and database-driven systems. Over time, my stack has expanded into **Golang, Node.js, Express.js, TypeScript, and NestJS**.
 
 I enjoy working close to the backend layer — designing APIs, understanding system flows, improving reliability, and writing code that is clean, practical, and maintainable.
 
