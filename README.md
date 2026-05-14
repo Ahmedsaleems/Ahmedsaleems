@@ -66,7 +66,7 @@ Node.js/TS        ████████░░░░
 Python/Django     █████████░░░
 System Design     ███████░░░░░
 AI/ML             ██████░░░░░░
-
+```
 ---
 
 ## 📌 Current Focus
